@@ -1,0 +1,415 @@
+TY  - JOUR
+TI  - Network Effects by Choice: Evidence from the Board Games Industry.
+AU  - Ploog, Joe N
+AU  - Rietveld, Joost
+DA  - 2023///
+PY  - 2023
+DO  - 10.5465/AMPROC.2023.11600abstract
+VL  - 1
+IS  - 1
+SP  - 604
+SN  - 2151-6561
+UR  - https://web-p-ebscohost-com.calpoly.idm.oclc.org/ehost/detail/detail?vid=1&sid=dd6732fe-c712-4813-a1da-f0ce1ffe267b%40redis&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=173159280&db=buh
+ER  - 
+
+TY  - JOUR
+TI  - The role of culture and personality traits in board game habits and attitudes: Cross-cultural comparison between Denmark, Germany, and USA
+AU  - Bar, Amit
+AU  - Otterbring, Tobias
+AB  - This study investigated whether variations in personality traits are related to board game usage patterns and attitudes, and whether such associations are expressed differently across countries that reflect different cultural orientations and values. A cross-sectional online survey was distributed among 486 Danes, Germans, and Americans, whose personalities were assessed through the NEO-FFI questionnaire. Participants also indicated their liking levels, attitudes, and playing frequency of board games. Results showed significant associations between personality traits and board game-related attitudes and habits. However, these associations were moderated by culture and primarily predicted responses among Danish participants, but not their American or German counterparts. These findings have important implications for the board-game industry, a multi-billion-dollar market worldwide. Furthermore, findings can shed light on how to better personalize and design board games according to personality traits and culture-specific preferences, which should have a significant impact on the user experience and ultimately increase sales.
+DA  - 2021/02//
+PY  - 2021
+UR  - https://www-sciencedirect-com.calpoly.idm.oclc.org/science/article/pii/S0969698921000722
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Inventory Management with Inventory‐based Financing
+AU  - Fu, Ke
+AU  - Gong, Xiting
+AU  - Hsu, Vernon N.
+AU  - Xue, Jiye
+T2  - Production & Operations Management
+AB  - This study considers a stochastic inventory management problem where a capital‐constrained firm can obtain additional working capital through inventory‐based financing (IBF) by pledging its inventory to obtain loans from a lender. We show that the firm's optimal inventory policy in each period may order new inventory up to a state‐dependent order‐up‐to level subject to the firm's capital and IBF loan constraints, or salvage existing inventory down to a state‐dependent salvage‐down‐to level. We further partially characterize the structures of the two state‐dependent levels in each period. Through analytical and numerical studies, we offer a number of new insights regarding the optimal inventory management for a capital‐constrained firm with access to inventory‐based financing. In particular, we find that when the firm anticipates a shortage of capital with which to meet high demands in a future period, it may strategically over‐stock its inventory in earlier periods in order to secure the necessary capital. Through extensive numerical studies, our study also demonstrates how some of the key parameters may affect the optimal inventory policy and the value of IBF.
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1111/poms.13323
+DP  - EBSCOhost
+VL  - 30
+IS  - 5
+SP  - 1313
+EP  - 1330
+SN  - 10591478
+UR  - https://calpoly.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=150852113&site=ehost-live&scope=site
+Y2  - 2024/10/31/18:44:10
+L1  - https://content.ebscohost.com/cds/retrieve?content=AQICAHiylJ_bvOB56hI8UzTN6Ryruh7a0kiIBN_ANwtaWYjmxwE5qe0ppLisrJtC6ZXnihK-AAAA2zCB2AYJKoZIhvcNAQcGoIHKMIHHAgEAMIHBBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDGMJxeky06fr_UxaqgIBEICBk6cypJar_r6_gyML24I7GJ6hJ2IuWlUR4kveBuSzB7wJ76ByHb5w7NnoUt4IBq7S6OedD75hLXGDdip6XHzQrtfxF61otiLjNZ3tRPNHw6C8Ez88GsfZICDdUL26XJGUzV2C9e2eJs8zQ35iiQSYK-8wpwEiyfu4nKSnI-uUgawkRuvwNd4ZS-0jc1rc75n0rDP8mw==
+KW  - CAPITAL shortages
+KW  - financial constraint
+KW  - INTERNATIONAL Boxing Federation (IBF)
+KW  - INVENTORIES
+KW  - inventory control
+KW  - INVENTORY control
+KW  - inventory‐based financing
+KW  - optimal policy
+KW  - SUPPLY & demand
+KW  - WORKING capital
+ER  - 
+
+TY  - JOUR
+TI  - Capacity and Inventory Management: Review, Trends, and Projections
+AU  - Song, Jing-Sheng
+AU  - Van Houtum, Geert-Jan
+AU  - Van Mieghem, Jan A.
+T2  - Manufacturing & Service Operations Management
+AB  - We present a reproducible, objective review of research trends using text mining and citations of papers published in Manufacturing & Service Operations Management during its first 20 years whose abstracts or keywords contain capacity or inventory. The review is followed by our subjective projections on future research opportunities.
+DA  - 2020/01//
+PY  - 2020
+DO  - 10.1287/msom.2019.0798
+DP  - DOI.org (Crossref)
+VL  - 22
+IS  - 1
+SP  - 36
+EP  - 46
+J2  - M&SOM
+LA  - en
+SN  - 1523-4614, 1526-5498
+ST  - Capacity and Inventory Management
+UR  - https://pubsonline.informs.org/doi/10.1287/msom.2019.0798
+Y2  - 2024/10/31/18:45:29
+L1  - https://pubsonline.informs.org/doi/pdf/10.1287/msom.2019.0798
+ER  - 
+
+TY  - JOUR
+TI  - Robust Inventory Management: A Cycle-Based Approach
+AU  - Chen, Yupeng
+AU  - Iyengar, Garud
+AU  - Wang, Chun
+T2  - Manufacturing & Service Operations Management
+AB  - Problem definition: We study the robust formulation of an inventory model with positive fixed ordering costs, where the unfulfilled demand is either backlogged or lost, the lead time is allowed to be positive, the demand is potentially intertemporally correlated, and the information about the demand distribution is limited. Methodology/results: We propose a robust cycle-based policy that manages inventory by dividing the planning horizon into nonoverlapping inventory cycles, where an order is placed at the beginning of each cycle. Our policy selects the lengths and order quantities for all inventory cycles to minimize the worst-case total cost incurred over the planning horizon. When the uncertain demand belongs to a general polyhedral uncertainty set, the decisions in our policy can be computed by solving linear programs (LPs) for the backlogging model with any lead time and the lost-sales model with zero lead time; however, the number of LPs that need to be solved grows exponentially in the length of the planning horizon. In the special case where the uncertain demand belongs to a box uncertainty set, the decisions in our policy can be computed using a dynamic programming (DP) recursion whose complexity grows polynomially in the length of the planning horizon. We also propose a one-cycle look-ahead heuristic to handle large problem instances with a general polyhedral uncertainty set. This heuristic can be applied for both the backlogging and lost-sales models with any lead time, and it only requires solving LPs whose number grows quadratically in the length of the planning horizon. Results from extensive computational experiments clearly show that both a rolling-cycle implementation of our policy and the one-cycle look-ahead heuristic have very strong empirical performance. Managerial implications: Our robust cycle-based policy and the one-cycle look-ahead heuristic are conceptually simple and can accommodate multiple realistic features in inventory management problems. They provide a very effective approach to robust inventory management, especially in the lost-sales setting. Funding: Y. Chen was supported by a start-up grant from Nanyang Technological University. C. Wang was supported by the National Natural Science Foundation of China [Grant 71802115] and the Tsinghua University Initiative Scientific Research Program. Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2022.1168.
+DA  - 2023/03//
+PY  - 2023
+DO  - 10.1287/msom.2022.1168
+DP  - pubsonline.informs.org (Atypon)
+VL  - 25
+IS  - 2
+SP  - 581
+EP  - 594
+J2  - M&SOM
+SN  - 1523-4614
+ST  - Robust Inventory Management
+UR  - https://pubsonline.informs.org/doi/10.1287/msom.2022.1168
+Y2  - 2024/10/31/18:46:33
+KW  - fixed ordering cost
+KW  - inventory management
+KW  - lost sales
+KW  - robust optimization
+ER  - 
+
+TY  - JOUR
+TI  - Optimal robust inventory management with volume flexibility: Matching capacity and demand with the lookahead peak-shaving policy
+AU  - Gijsbrechts, Joren
+AU  - Imdahl, Christina
+AU  - Boute, Robert N.
+AU  - Van Mieghem, Jan A.
+T2  - Production and Operations Management
+AB  - We study inventory control with volume flexibility: A firm can replenish using period-dependent base capacity at regular sourcing costs and access additional supply at a premium. The optimal replenishment policy is characterized by two period-dependent base-stock levels but determining their values is not trivial, especially for nonstationary and correlated demand. We propose the Lookahead Peak-Shaving policy that anticipates and peak shaves orders from future peak-demand periods to the current period, thereby matching capacity and demand. Peak shaving anticipates future order peaks and partially shifts them forward. This contrasts with conventional smoothing, which recovers the inventory deficit resulting from demand peaks by increasing later orders. Our contribution is threefold. First, we use a novel iterative approach to prove the robust optimality of the Lookahead Peak-Shaving policy. Second, we provide explicit expressions of the period-dependent base-stock levels and analyze the amount of peak shaving. Finally, we demonstrate how our policy outperforms other heuristics in stochastic systems. Most cost savings occur when demand is nonstationary and negatively correlated, and base capacities fluctuate around the mean demand. Our insights apply to several practical settings, including production systems with overtime, sourcing from multiple capacitated suppliers, or transportation planning with a spot market. Applying our model to data from a manufacturer reduces inventory and sourcing costs by 6.7%, compared to the manufacturer's policy without peak shaving.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1111/poms.14069
+DP  - Wiley Online Library
+VL  - 32
+IS  - 11
+SP  - 3357
+EP  - 3373
+LA  - en
+SN  - 1937-5956
+ST  - Optimal robust inventory management with volume flexibility
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14069
+Y2  - 2024/10/31/18:47:15
+L1  - https://journals.sagepub.com/doi/pdf/10.1111/poms.14069
+L2  - https://onlinelibrary.wiley.com/doi/10.1111/poms.14069
+KW  - robust optimization
+KW  - flexibility
+KW  - inventory
+KW  - peak-shaving
+ER  - 
+
+TY  - JOUR
+TI  - Using vendor management inventory system for goods inventory management in IoT manufacturing
+AU  - Fang, Xiaodong
+AU  - Chen, H-C
+T2  - Enterprise Information Systems
+AB  - The revolution in the digital economy is forcing the manufacturing industry to develop new business models to achieve operational excellence. Vendor Management Inventory (VMI) is a key measure, aimed at increasing supply chain efficiency and mitigating the bullwhip effects on the Internet of Things (IoT). The problems encountered by the manufacturing supplier are the difficulty of obtaining inventory information at the hub, and being unable to easily integrate relevant inventory information in the IoT. The proposed method is to implement an integrated Hub VMI system to solve the inventory problem. This case study aims to implement an all-in-one integrated Hub VMI in an electronic manufacturing business. This proposal has two models: one comprises an Stock Transfer Order (STO)/Sales Order (SO) structure in which the purchase order is accepted and the product is manufactured onsite; the other consists of a Purchase Order (PO)/SO structure, whereby the PO is accepted onsite but the product is manufactured at another site. This case study designs an intelligent Radio Frequency Identified (RFID) system to extract product information from an inventory, and to provide a product, as recommended by customer services. The result and the contributions of this research include inventory management operation enhancements, a reduction in the cost and the total execution time, a reduction in the response time for the benefit of the customer and an increase in system performance efficiency.
+DA  - 2022/07/03/
+PY  - 2022
+DO  - 10.1080/17517575.2021.1885743
+DP  - Taylor and Francis+NEJM
+VL  - 16
+IS  - 7
+SP  - 1885743
+SN  - 1751-7575
+UR  - https://doi.org/10.1080/17517575.2021.1885743
+Y2  - 2024/10/31/18:49:05
+KW  - bullwhip effect
+KW  - Internet of Things (IoT)
+KW  - Radio Frequency Identified (RFID)
+KW  - Sales Order (SO)
+KW  - Stock Transfer Order (STO)
+KW  - supply chain
+KW  - Vendor Management Inventory (VMI)
+ER  - 
+
+TY  - JOUR
+TI  - Demand forecasting under fill rate constraints—The case of re-order points
+AU  - Bruzda, Joanna
+T2  - International Journal of Forecasting
+AB  - We consider computation of demand forecasts fulfilling an assumption about the level of the P2 service measure in continuous review inventory systems with fixed order quantities and re-order points as decision variables. First, we introduce a family of loss functions whose expectations are uniquely minimized at the functional of demand of interest here. Then, concentrating on the linear-quadratic loss and assuming some regularity conditions, we provide consistency and asymptotic normality conditions for the direct M-estimator of the appropriate decision levels in the case of iid data. The large sample properties of this direct estimator are examined, under different distributional assumptions, in comparison with the two-step estimator based on the maximum likelihood principle. Furthermore, we also study the small sample properties of these two estimators (and also another one utilizing a nonparametric kernel density estimation) and study the small sample coverage of confidence intervals for the decision levels constructed according to the derived asymptotic formulas. Finally, we also discuss possible extensions of this estimation framework to the case of dependent data and introduce certain classes of dynamic models for forecasting under the P2 constraint.
+DA  - 2020/10/01/
+PY  - 2020
+DO  - 10.1016/j.ijforecast.2020.01.007
+DP  - ScienceDirect
+VL  - 36
+IS  - 4
+SP  - 1342
+EP  - 1361
+J2  - International Journal of Forecasting
+SN  - 0169-2070
+UR  - https://www.sciencedirect.com/science/article/pii/S0169207020300169
+Y2  - 2024/11/25/19:33:06
+L1  - https://www.sciencedirect.com/science/article/pii/S0169207020300169/pdfft?download=true
+KW  - Fill rate
+KW  - GAS models
+KW  - Inventory forecasting
+KW  - Loss function
+KW  - M-estimation
+KW  - Re-order point
+ER  - 
+
+TY  - CONF
+TI  - As Simple as Possible but no Simpler-An Inquiry into Approximations for a Re-order Point Inventory Control Model with Gamma-distributed Demand
+AU  - Thorstenson, A.
+T2  - 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+AB  - The basic single item, continuous review, reorder point inventory control model with given order quantities and a fixed lead time is considered. The objective is to minimize inventory holding cost for the safety stock by determining the reorder point subject to a fill-rate constraint. Several approximations have been suggested for this model. Many of them assume that demand during the lead time follows a normal distribution. In this paper, model approximations assuming normal distributions are contrasted with gamma distributed lead-time demand. It is confirmed numerically, that the simplest approximation is quite accurate under some fairly restrictive conditions. However, it is found that considerable errors can be expected when demand uncertainty is increased, especially when the gamma distribution is applied. Fortunately, the more precise model specification with only marginally increased complexity works quite well, also for the gamma distribution.
+C3  - 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1109/IEEM.2018.8607312
+DP  - IEEE Xplore
+SP  - 153
+EP  - 157
+UR  - https://ieeexplore.ieee.org/document/8607312
+Y2  - 2024/11/25/19:44:31
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8607312&ref=
+L2  - https://ieeexplore.ieee.org/document/8607312
+KW  - Backordering
+KW  - continuous review
+KW  - fill rate
+KW  - gamma distribution
+KW  - Gamma distribution
+KW  - Gaussian distribution
+KW  - Inventory control
+KW  - Lead
+KW  - Measurement uncertainty
+KW  - normal distribution
+KW  - Numerical models
+KW  - Safety
+KW  - safety stock
+KW  - stochastic demand
+ER  - 
+
+TY  - JOUR
+TI  - Coordinating supplier׳s reorder point: A coordination mechanism for supply chains with long supplier lead time
+AU  - Heydari, Jafar
+T2  - Computers & Operations Research
+AB  - In this paper, the issue of the upstream stochastic lead time in supply chain (SC) is investigated. A coordination mechanism is developed for reducing the harmful effect of upstream lead time. The supplier stochastic lead time can substantially harm the whole supply chain service level, especially when it is accumulated with downstream stochastic lead times. In this study, aggregation of both the supplier and the retailer stochastic lead time is analyzed in a two-stage supply chain (SC). To dampen harmful effects of a long aggregate lead time, a ‘per order extra payment’ model is developed for convincing the supplier to increase its reorder point. Numerical experiments show that coordinating the supplier׳s reorder point creates a significant profit for the whole supply chain. In addition, the proposed model is capable of optimizing the supplier׳s reorder point and fairly sharing the extra benefits. Some conditions are also extracted, under which the proposed model shows good performance.
+DA  - 2014/08/01/
+PY  - 2014
+DO  - 10.1016/j.cor.2014.03.011
+DP  - ScienceDirect
+VL  - 48
+SP  - 89
+EP  - 101
+J2  - Computers & Operations Research
+SN  - 0305-0548
+ST  - Coordinating supplier׳s reorder point
+UR  - https://www.sciencedirect.com/science/article/pii/S0305054814000665
+Y2  - 2024/11/25/19:52:33
+L1  - https://www.sciencedirect.com/science/article/pii/S0305054814000665/pdfft?download=true
+L2  - https://www.sciencedirect.com/science/article/pii/S0305054814000665?via%3Dihub
+KW  - Aggregate lead time
+KW  - Stochastic lead time
+KW  - Supplier lead time
+KW  - Supply chain coordination
+ER  - 
+
+TY  - ELEC
+TI  - Intersection of Supply Chain Management and Marketing With MBA
+T2  - St. Cloud State
+AB  - St. Cloud State University's online MBA in Supply Chain Management program equips graduates to utilize marketing knowledge in their future supply management careers.
+DA  - 2024/04/11/
+PY  - 2024
+LA  - en-US
+UR  - https://degree.stcloudstate.edu/online-programs/business/mba/supply-chain-management/marketing/
+Y2  - 2024/11/27/18:53:24
+L2  - https://degree.stcloudstate.edu/online-programs/business/mba/supply-chain-management/marketing/
+ER  - 
+
+TY  - BLOG
+TI  - Supply Chain vs. Sales & Marketing: Key Differences
+AU  - Logistics, Lading
+T2  - Lading Logistics
+AB  - Key differences between supply chain management and sales/marketing, and the importance of their integration for business success.
+DA  - 2023/10/12/T06:47:58+00:00
+PY  - 2023
+LA  - en-US
+ST  - Supply Chain vs. Sales & Marketing
+UR  - https://ladingcargo.com/blog/supply-chain-vs-sales-marketing-understanding-the-key-differences/
+Y2  - 2024/11/27/18:57:17
+L2  - https://ladingcargo.com/blog/supply-chain-vs-sales-marketing-understanding-the-key-differences/
+ER  - 
+
+TY  - SLIDE
+TI  - Supply Chain Analytics
+A2  - Zhao, Yao
+CY  - Rutgers Business School
+DA  - 2024///
+PY  - 2024
+ER  - 
+
+TY  - BLOG
+TI  - What Is A Blind Taste Test? | Product Testing
+T2  - Wirral Sensory Services
+AB  - What is a blind taste test? Wirral Sensory Services provide blind taste testing for new food & drink products.
+DA  - 2022/05/17/T13:19:32+00:00
+PY  - 2022
+LA  - en
+ST  - What Is A Blind Taste Test?
+UR  - https://wssintl.com/what-is-a-blind-taste-test/
+Y2  - 2024/11/27/19:08:45
+L2  - https://wssintl.com/what-is-a-blind-taste-test/
+ER  - 
+
+TY  - ELEC
+TI  - MyEducator - Tools: The Reorder Point (R, Q) Model
+AB  - A courseware solution provider for online, university-level courses.
+LA  - en
+ST  - MyEducator - Tools
+UR  - https://staging.myeducator.com/reader/web/869a/topic09/pr0kr/
+Y2  - 2024/11/27/19:14:25
+ER  - 
+
+TY  - CHAP
+TI  - Supply Chain Engineering: Models and Applications
+AU  - Ravindran
+AU  - Warsing
+DA  - 2013///
+PY  - 2013
+SP  - Chapter
+EP  - 3: Inventory Management Methods and Models
+ER  - 
+
+TY  - ELEC
+TI  - AYNIW
+T2  - All You Need Is Wine
+AB  - All You Need Is Wine is the perfect party game to entertain your guests!Designed for people of all wine knowledge levels, this blind wine tasting party game allows players to learn and practice the 5 S’s of Wine Tasting:Sight, Swirl, Smell, Sip, and Savor.Players blind taste each wine and use the Tasting Tip Sheets to record their tasting notes on ... Read More
+DA  - 2009///
+PY  - 2009
+LA  - en-US
+UR  - https://allyouneediswine.com/
+Y2  - 2024/12/06/22:26:26
+L2  - https://allyouneediswine.com/
+ER  - 
+
+TY  - BLOG
+TI  - Definitions of Marketing
+T2  - American Marketing Association
+AB  - What Is Marketing? Definition of Marketing Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and
+LA  - en-US
+UR  - https://www.ama.org/the-definition-of-marketing-what-is-marketing/
+Y2  - 2024/12/09/00:23:14
+L2  - https://www.ama.org/the-definition-of-marketing-what-is-marketing/
+ER  - 
+
+TY  - ELEC
+TI  - The 4 Ps of Marketing: What They Are and How to Use Them
+T2  - Coursera
+AB  - Learn what the 4 Ps are and how they can help you in your next marketing endeavor.
+DA  - 2024/05/01/
+PY  - 2024
+LA  - en
+ST  - The 4 Ps of Marketing
+UR  - https://www.coursera.org/articles/4-ps-of-marketing
+Y2  - 2024/12/09/00:23:37
+L2  - https://www.coursera.org/articles/4-ps-of-marketing
+ER  - 
+
+TY  - ELEC
+TI  - Alcohol and Marketing
+T2  - Institute of Alcohol Studies
+AB  - Alcohol marketing includes advertising in traditional media outlets such as print, television and radio, promotional activities in online and social media, and sponsorship of sporting and music events. Summary Introduction Alcohol marketing utilises the ‘four Ps’: product; price; place and promotion. Tactics under each of these ‘four Ps’ have been found to increase consumption. The […]
+LA  - en-GB
+UR  - https://www.ias.org.uk/report/alcohol-and-marketing/
+Y2  - 2024/12/09/00:59:16
+L2  - https://www.ias.org.uk/report/alcohol-and-marketing/
+ER  - 
+
+TY  - ELEC
+TI  - Board Games Market Size, Share & Trends Analysis [2032]
+AB  - The global board games market size is projected to grow from $13.06 billion in 2023 to $32.00 billion by 2032, at a CAGR of 10.52% during the forecast period
+LA  - en
+UR  - https://www.fortunebusinessinsights.com/board-games-market-104972
+Y2  - 2024/12/09/01:02:21
+L2  - https://www.fortunebusinessinsights.com/board-games-market-104972
+ER  - 
+
+TY  - ELEC
+TI  - Sell on Amazon
+AB  - The New Seller Guide is a set of brand, logistics, pricing, and promotional services that we recommend to sellers who are just getting started with Amazon. Brand Registry, At Content, Vine, Automate Pricing, Fulfillment by Amazon (FBA), and Advertising are backed by data science and designed to fuel the growth of new sellers.
+DA  - 2024///
+PY  - 2024
+LA  - en-US
+UR  - https://sell.amazon.com/grow?ld=SEUSSOAGOOG-NS1073B-NSIIS-D&gclid=Cj0KCQiApNW6BhD5ARIsACmEbkWYPg0gJFBu9yC8kCumsAgEegG7d4TC8ljigQbId6zlwx9t2X0HtT0aAqkFEALw_wcB
+Y2  - 2024/12/09/01:04:48
+L2  - https://sell.amazon.com/grow?ld=SEUSSOAGOOG-NS1073B-NSIIS-D&gclid=Cj0KCQiApNW6BhD5ARIsACmEbkWYPg0gJFBu9yC8kCumsAgEegG7d4TC8ljigQbId6zlwx9t2X0HtT0aAqkFEALw_wcB
+ER  - 
+
+TY  - GEN
+TI  - Project Methodologies
+AU  - Applin, Bradford
+DA  - 2024/04//
+PY  - 2024
+ER  - 
+
+TY  - CONF
+TI  - A Survey Paper on Identifying Key Performance Indicators for Optimizing Inventory Management System and Exploring Different Visualization Tools
+AU  - Singh, Priyanka
+AU  - Ghosh, Soma
+AU  - Saraf, Manish
+AU  - Nayak, Rahul
+T2  - 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)
+AB  - As British economist Ronald Coase said: "Torture the data and it will confess to anything". Well, it's true when it comes to the business organization to make a better profit from the existing system by analyzing a historical data set and inculcating the knowledge gained in taking efficient business decisions. On the daily basis, lots of transactions are being done while procuring and storing materials in any industry which led to the generation of large datasets, which if analyzed can lead to impeccable insights and nail-biting inferences. In this research work, the aim is to avail KPIs to the stakeholders on the live dashboard to indicate the in-bound supply chain management performance. KPI are the key performance indicators that help the business heads to keep track of the organization's performance based on some crucial metrics and helps them to understand the core functionality of the system. The project also aims to predict the estimated time of arrival stock for better stock management in the enterprise. With the recent advancement in technology, it is easier to store and process such huge data. for this research work, we have used Hadoop infrastructure which has HDFS to store data and hive to query data. For analyzing and building data models, that will be the data set in our case for estimating the time of arrival of stock, Spark, and machine learning modules has been used. Since an organization which is entirely based on the buying and selling of raw materials, procuring it and converting it into a useful product is channelized by how well the inventory is managed, So it is important to make the data in terms of stock availability, space required for stock, date of arrival of individual stock should be transparent to everyone involved in the process to optimize the stock management system. Hence it is crucial to building a dashboard which can be presented to the stakeholders as a pamphlet to display the present scenario of stock and inventory system which will guide them to take better business decision
+C3  - 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)
+DA  - 2020/05//
+PY  - 2020
+DO  - 10.1109/ICICCS48265.2020.9121036
+DP  - IEEE Xplore
+SP  - 627
+EP  - 632
+UR  - https://ieeexplore.ieee.org/abstract/document/9121036?casa_token=PfxxJ7TeMncAAAAA:UahufVYMhpkdgvGLcyr3_XhR3NJ3AjvTuIRDcg7w384FehgCYLPMv51ICXD79zKhwHxI_O7u5g
+Y2  - 2024/12/09/22:15:09
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9121036&ref=
+L2  - https://ieeexplore.ieee.org/abstract/document/9121036?casa_token=PfxxJ7TeMncAAAAA:UahufVYMhpkdgvGLcyr3_XhR3NJ3AjvTuIRDcg7w384FehgCYLPMv51ICXD79zKhwHxI_O7u5g
+KW  - Buildings
+KW  - Dashboard
+KW  - Data models
+KW  - Data visualization
+KW  - Hadoop
+KW  - HDFS
+KW  - Key performance indicator
+KW  - KPIs
+KW  - Machine learning
+KW  - Organizations
+KW  - Real-time systems
+KW  - Spark
+KW  - Supply chain management
+ER  - 
+
