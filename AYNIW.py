@@ -3,6 +3,16 @@ import pandas as pd
 import math
 from datetime import datetime, timedelta
 
+
+import streamlit as st
+
+# Simple password protection
+password = st.text_input("Enter the password", type="password")
+if password != "eoq":
+    st.error("Incorrect password")
+    st.stop()  # Stop the app if password is wrong
+
+
 # Custom CSS for the header background and text styling
 # Create a centered layout with st.columns
 col1, col2, col3 = st.columns([1, 2, 1])
