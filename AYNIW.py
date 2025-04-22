@@ -8,7 +8,8 @@ from datetime import datetime, timedelta
 col1, col2, col3 = st.columns([1, 2, 1])
 
 with col2:  # Center column
-    st.image('logo-wine-glasses.png', use_column_width=True)
+    #st.image('logo-wine-glasses.png', use_container_width=True)
+    st.image('logo-wine-glasses.png')
 # st.image('logo-wine-glasses.png', width=150)
 st.markdown(
     """
