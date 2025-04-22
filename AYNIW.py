@@ -8,7 +8,7 @@ import streamlit as st
 
 # Simple password protection
 password = st.text_input("Enter the password", type="password")
-if password != "eoq":
+if password != "Iverson":
     st.error("Incorrect password")
     st.stop()  # Stop the app if password is wrong
 
